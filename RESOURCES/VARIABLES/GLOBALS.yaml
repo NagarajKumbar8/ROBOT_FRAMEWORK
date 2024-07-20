@@ -7,3 +7,5 @@ GLOBAL_DATA:
     LOW: '3s'
     MEDIUM: '7s'
     HIGH: '20s'
+
+
