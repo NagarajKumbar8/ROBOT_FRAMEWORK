@@ -1,0 +1,9 @@
+GLOBAL_DATA:
+    CERT: 'https://www.youtube.com/'
+    INT:
+    CHROME: 'googlechrome'
+    EDGE: 'edge'
+    TIMEOUT: '80s'
+    LOW: '3s'
+    MEDIUM: '7s'
+    HIGH: '20s'

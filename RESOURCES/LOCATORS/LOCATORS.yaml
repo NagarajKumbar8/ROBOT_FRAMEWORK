@@ -1,0 +1,3 @@
+page_locators:
+  Page_Search: 'xpath://input[@id="search"]'
+
