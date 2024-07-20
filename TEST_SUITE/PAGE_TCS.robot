@@ -7,7 +7,7 @@ Resource     ${EXECDIR}${/}PAGES/APP_NAME.robot
 Resource     ${EXECDIR}${/}RESOURCES/UTILS/COMMON.robot
 
 Test Setup      Launch_Application ${ENV} ${BROWSER}
-Test Teardown   close_open_session
+Test Teardown   close_open_session #tttttt
 
 *** Test Cases ***
 TC1_Openapp
